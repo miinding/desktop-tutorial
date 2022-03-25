@@ -1,3 +1,3 @@
 layout: page
 title: "PAGE TITLE"
-permalink: https://octocat.github.io/docs/
+permalink: https://miinding.github.io/docs/
